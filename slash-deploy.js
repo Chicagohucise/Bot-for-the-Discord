@@ -23,5 +23,5 @@ const slashRegister = async () => {
 slashRegister();
 
 module.exports = {
-    botToken: "MTIxMTgxNTIwNjg2NzQzNTY2MA.GkebZk.IFDGHbncjANcyVmOzTk0nL35Jo48wlqV1bWY7k"
+    botToken: ""
 };
