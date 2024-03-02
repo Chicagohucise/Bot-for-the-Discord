@@ -23,5 +23,5 @@ const slashRegister = async () => {
 slashRegister();
 
 module.exports = {
-    botToken: ""
+    botToken
 };
