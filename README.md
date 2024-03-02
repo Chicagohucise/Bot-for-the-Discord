@@ -1,1 +1,1 @@
-# Bot-for-the-Discord
+# CommandsSupportsDiscord
